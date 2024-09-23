@@ -1,0 +1,22 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.delete-component {
+  height: 500px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.delete-form input{
+    height: 25px;
+    width: 350px;
+}
+.delete-form button{
+  width: 100px;
+  height: 20px;
+}
