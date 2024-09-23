@@ -1,0 +1,9 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.map-box{
+  border: 2px solid red;
+  text-align: center;
+  margin: 10px;
+}
