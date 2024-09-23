@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.employee-component{
+    height: 500px;
+    width: 100%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.employee-form{
+    margin: auto;
+}
+.employee-form input{
+    width: 300px;
+    height: 25px;
+}
+.employee-form button{
+    height: 20px;
+    width: 100px;
+}
